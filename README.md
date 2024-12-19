@@ -103,4 +103,5 @@ The designed schema empowers AdventureWorks to:
 
 ---
 
-This project demonstrates expertise in designing efficient data warehouse solutions, creating ETL processes, and ensuring data quality and performance optimization. Ideal for companies prioritizing data-driven decision-making! ✨
+This project demonstrates my expertise in designing efficient data warehouse solutions, creating ETL processes, and ensuring data quality and performance optimization. It is ideal for companies prioritizing data-driven decision-making! ✨
+
