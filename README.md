@@ -2,9 +2,12 @@
 
 This project focuses on designing and implementing the first star schema for AdventureWorks' data warehouse to facilitate the analysis of sales. The solution emphasizes creating dimensions and fact tables that support straightforward queries, enabling business users to extract actionable insights with ease.
 
-SQL file containing the code : ETL Project - SQL.sql
+You can access the SQL file containing the complete code in the following file: ETL Project - SQL.sql
 
 Database : AdventureWorks2019.sql
+
+[ETL Project - SQL.sql](ETL Project - SQL.sql)
+
 
 You can find these under the files section.
 
